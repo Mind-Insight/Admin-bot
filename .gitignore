@@ -3,3 +3,4 @@ venv
 .idea
 config.py
 db.db
+desktop.ini
